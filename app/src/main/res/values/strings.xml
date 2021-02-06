@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DatabaseTest</string>
+    <string name="button_create_table">CreateBook</string>
+    <string name="button_insert">Insert</string>
+    <string name="button_update">Update</string>
+    <string name="button_delete_all_words">Clear</string>
+    <string name="button_delete">Delete</string>
+</resources>
